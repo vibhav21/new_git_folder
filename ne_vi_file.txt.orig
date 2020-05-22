@@ -1,9 +1,11 @@
+<<<<<<< HEAD
 this is my first file
-this is the second line changed
-this is the third this line is also change
+this is the secodn line
+this is the thir this
+=======
 this is my first file 
 this is the second line changed 
 this is the third this line is also change
-
+>>>>>>> new_branch
 this assignmnet is to get to know about
 git operations
